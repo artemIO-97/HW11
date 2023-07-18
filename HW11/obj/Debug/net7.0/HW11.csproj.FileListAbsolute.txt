@@ -1,0 +1,15 @@
+D:\C#\HW11\bin\Debug\net7.0\HW11.exe
+D:\C#\HW11\bin\Debug\net7.0\HW11.deps.json
+D:\C#\HW11\bin\Debug\net7.0\HW11.runtimeconfig.json
+D:\C#\HW11\bin\Debug\net7.0\HW11.dll
+D:\C#\HW11\bin\Debug\net7.0\HW11.pdb
+D:\C#\HW11\obj\Debug\net7.0\HW11.csproj.AssemblyReference.cache
+D:\C#\HW11\obj\Debug\net7.0\HW11.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HW11\obj\Debug\net7.0\HW11.AssemblyInfoInputs.cache
+D:\C#\HW11\obj\Debug\net7.0\HW11.AssemblyInfo.cs
+D:\C#\HW11\obj\Debug\net7.0\HW11.csproj.CoreCompileInputs.cache
+D:\C#\HW11\obj\Debug\net7.0\HW11.dll
+D:\C#\HW11\obj\Debug\net7.0\refint\HW11.dll
+D:\C#\HW11\obj\Debug\net7.0\HW11.pdb
+D:\C#\HW11\obj\Debug\net7.0\HW11.genruntimeconfig.cache
+D:\C#\HW11\obj\Debug\net7.0\ref\HW11.dll
